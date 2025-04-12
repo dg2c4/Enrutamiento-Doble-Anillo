@@ -5,7 +5,7 @@
 </p>
 
 ## *Objetivo:*
-El propósito de este ejercicio es diseñar e implementar una topología de red en Cisco Packet Tracer, simulando la estructura de dble anillo de una red. Se busca configurar y verificar la conectividad entre dispositivos, asignar direcciones IP, enrrutamiento y conección de doble an.
+El propósito de este ejercicio es diseñar e implementar una topología de red en Cisco Packet Tracer, simulando la estructura de dble anillo de una red. Se busca configurar y verificar la conectividad entre dispositivos, asignar direcciones IP, enrrutamiento y conección de doble anillo.
 
 ## *Instalaciones requeridas:*
   • Descarga de Cisco Packet Tracer:
