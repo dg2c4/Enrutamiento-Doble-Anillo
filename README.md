@@ -41,4 +41,4 @@ El propósito de este ejercicio es diseñar e implementar una topología de red 
 ## Created By:
     https://github.com/dg2c4
     
-### *Date: 11/04/2025 - 18/04/2025*
+### *Date: 11/04/2025 - 02/05/2025*
